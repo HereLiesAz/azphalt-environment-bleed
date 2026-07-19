@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-environment-bleed",
+  "id": "com.hereliesaz.azphalt.environment-bleed",
   "name": "Environment Color Bleed",
   "version": "1.0.0",
   "kind": "asset",
