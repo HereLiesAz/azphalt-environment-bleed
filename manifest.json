@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Tints the layer and its glow to the dominant colour of the shot behind it, so graphics sit in the scene's light instead of on top of it.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
